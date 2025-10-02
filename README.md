@@ -13,3 +13,5 @@ Discord- https://discord.gg/nJZpewKNsc
 			durability = 0.1,
 			ammoname = 'ammo-rifle'
 		},
+
+<img width="500" height="500" alt="WEAPON_BGC_MAGMA_AR" src="https://github.com/user-attachments/assets/712b0582-9576-4e4c-9e08-3b6f99356e27" />
